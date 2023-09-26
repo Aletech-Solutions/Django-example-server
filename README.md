@@ -7,7 +7,7 @@ To deploy this Django project, follow these steps:
 Clone this repository to your server using `git`:
 
 ```bash
-git clone https://github.com/your-username/Django-example-server.git
+git clone https://github.com/Aletech-Solutions/Django-example-server.git
 cd Django-example-server
 ```
 ### Step 2: Set Up a Virtual Environment
